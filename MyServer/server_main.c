@@ -45,7 +45,7 @@ int main(int argc, char *argv[])
 	//struct sigaction act;
 
 	g_server_port = FDFS_STORAGE_SERVER_DEF_PORT;
-	memcpy(g_bind_addr,"100.64.133.55",IP_ADDRESS_SIZE);
+	memcpy(g_bind_addr,"59.111.100.24",IP_ADDRESS_SIZE);
 
 
 /*
